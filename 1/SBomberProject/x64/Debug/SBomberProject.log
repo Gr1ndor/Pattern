@@ -1,0 +1,12 @@
+﻿  Bomb.cpp
+  Ground.cpp
+  House.cpp
+  LevelGUI.cpp
+  MyTools.cpp
+  Plane.cpp
+  SBomber.cpp
+  SBomberProject.cpp
+  Tank.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\Grigiriy\Documents\REPO\Patterns\1\SBomberProject\x64\Debug\SBomberProject.exe при последней инкрементной компоновке; выполняется полная компоновка
+  SBomberProject.vcxproj -> C:\Users\Grigiriy\Documents\REPO\Patterns\1\SBomberProject\x64\Debug\SBomberProject.exe
