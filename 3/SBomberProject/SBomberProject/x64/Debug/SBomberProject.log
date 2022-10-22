@@ -1,0 +1,3 @@
+﻿  SBomber.cpp
+C:\Users\Grigiriy\Documents\REPO\Pattern\3\SBomberProject\SBomberProject\SBomber.h(74,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  SBomberProject.vcxproj -> C:\Users\Grigiriy\Documents\REPO\Pattern\3\SBomberProject\x64\Debug\SBomberProject.exe
