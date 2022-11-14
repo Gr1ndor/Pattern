@@ -1,0 +1,11 @@
+﻿  Bomb.cpp
+C:\Users\Grigiriy\Documents\REPO\Pattern\6\SBomberProject5\SBomberProject\SBomberProject\Visitour.h(8,24): error C2061: синтаксическая ошибка: идентификатор "Bomb"
+C:\Users\Grigiriy\Documents\REPO\Pattern\6\SBomberProject5\SBomberProject\SBomberProject\Visitour.h(14,16): error C2061: синтаксическая ошибка: идентификатор "Bomb"
+  Plane.cpp
+C:\Users\Grigiriy\Documents\REPO\Pattern\6\SBomberProject5\SBomberProject\SBomberProject\Visitour.h(9,24): error C2061: синтаксическая ошибка: идентификатор "Plane"
+C:\Users\Grigiriy\Documents\REPO\Pattern\6\SBomberProject5\SBomberProject\SBomberProject\Visitour.h(21,16): error C2061: синтаксическая ошибка: идентификатор "Plane"
+  SBomber.cpp
+  SBomberProject.cpp
+C:\Users\Grigiriy\Documents\REPO\Pattern\6\SBomberProject5\SBomberProject\SBomberProject\Visitour.h(9,24): error C2061: синтаксическая ошибка: идентификатор "Plane"
+C:\Users\Grigiriy\Documents\REPO\Pattern\6\SBomberProject5\SBomberProject\SBomberProject\Visitour.h(21,16): error C2061: синтаксическая ошибка: идентификатор "Plane"
+  Создание кода...
